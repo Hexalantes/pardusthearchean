@@ -11,7 +11,8 @@ also liveuser password is 1234.
 - cannot install on bios/legacy/csm hardware, it only works on uefi; you can try to use/install in bios in your own risk.
 - on some real hardware, calamares cannot unpack airootfs.sfs cause of some mount problems.
 - in tty interface (terminal), it gives you an archiso motd.
-  (you see
+  (you see:
+  
    "To install Arch Linux, follow the installation guide:
    https://wiki.archlinux.org/title/Installation_guide.
 
@@ -22,6 +23,7 @@ also liveuser password is 1234.
    After connecting to the internet, the installation guide can be accessed
    via the convenience script Installation_guide"
    in tty interface.)
+  
 - calamares will stay in applications menu as "Install System" after the installation.
 - pacman gives key errors almost everytime.
 
