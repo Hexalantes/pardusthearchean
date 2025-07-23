@@ -16,6 +16,7 @@ liveuser password is pardus
 - LibreOffice, VLC Media Player, Okular and Java Runtime Environment 8 are pre-installed now.
 - "calamares.desktop" is removed from /usr/share/applications but Calamares binary is not removed.
 - liveuser password is changed from "1234" to "pardus".
+- Multilib repository is removed.
   
 # Known Issues
 -Automated Install can not install and configure bootloader on Legacy BIOS/CSM, you should do it manually.
